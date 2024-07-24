@@ -1,0 +1,21 @@
+#blueletters {
+    color: blue;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+#greenbold {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.boldpink.pink {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.pink {
+    background-color: pink;
+}
+
